@@ -11,9 +11,9 @@
 :root {
   --white: hsl(0, 100%, 100%);
   --purple-900: hsl(300, 43%, 22%);
-  --purple-300: hsl(303, 10%, 53%);
+  --purple-300: hsl(300, 10%, 48%);
   --purple-100: hsl(300, 24%, 96%);
-  --pink: hsl(333, 80%, 67%);
+  --pink: hsl(333, 90%, 69%);
   --ff-base: 'League Spartan', sans-serif;
   --radius: 8px;
 }

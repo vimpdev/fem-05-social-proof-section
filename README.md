@@ -48,7 +48,7 @@ Users should be able to:
 ## 🔗 Links
 
 - 🌎 [Live site](https://vimpdev.github.io/fem-05-social-proof-section/)
-<!-- - 👩‍💻 [Frontend Mentor solution](https://your-solution-url.com) -->
+- 👩‍💻 [Frontend Mentor solution](https://www.frontendmentor.io/solutions/social-proof-section-mobile-first-css-grid-solution-0QfAmNOu55)
 
 ---
 
